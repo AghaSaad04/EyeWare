@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Eyenovative</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+
+    <string name="kws_caption">To start demonstration say \"Wakeup eyenovative\".</string>
+    <string name="menu_caption">Say \"open object detection\"or \"open text reading\" </string>
+    <string name="objectdetection_caption">Opening object detection".</string>
+    <string name="ocr_caption">Opening ocr".</string>
+<!--    <string name="forecast_caption">To try recognition of a weather forecast like \"sunny spells on Wednesday\".</string>-->
+<!--    <string name="phone_caption">To try phonetic recognition say anything.</string>-->
+</resources>
